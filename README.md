@@ -31,7 +31,7 @@ Watch the app in action on Appetize:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/meals.git
+   git clone https://github.com/SolomonB127/Meals.git
    cd meals
    ```
 2. **Install dependencies:**
