@@ -23,7 +23,7 @@ Meals is a beautifully designed Flutter application that allows users to browse,
 
 Watch the app in action on Appetize:
 
-[![Demo Video](https://appetize.io/app/b_55hm37sriomex6kbvsfxmfjara)
+[![Demo Video]](https://appetize.io/app/b_55hm37sriomex6kbvsfxmfjara)
 
 
 ## Getting Started
