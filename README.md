@@ -23,9 +23,8 @@ Meals is a beautifully designed Flutter application that allows users to browse,
 
 Watch the app in action on Appetize:
 
-[![Demo Video](https://img.youtube.com/vi/DEMO_VIDEO_ID/0.jpg)](https://appetize.io/app/your-appetize-demo-link)
+[![Demo Video](https://appetize.io/app/b_55hm37sriomex6kbvsfxmfjara)
 
-<!-- > **Replace** the `DEMO_VIDEO_ID` and `your-appetize-demo-link` with your actual YouTube/Appetize demo links. -->
 
 ## Getting Started
 
